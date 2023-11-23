@@ -1,5 +1,5 @@
 /datum/admin_help/ClosureLinks(ref_src)
-	..()
+	. =..()
 	. += " (<A HREF='?_src_=holder;[HrefToken(forceGlobal = TRUE)];ahelp=[ref_src];ahelp_action=skillissue'>SKILL</A>)"
 
 //Resolve ticket with skill issue message
