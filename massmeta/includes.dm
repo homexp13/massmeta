@@ -52,8 +52,6 @@
 #include "code\modules\jobs\job_types\head_of_personnel.dm"
 #include "game\objects\items\storage\garment.dm"
 #include "code\modules\hooch.dm"
-#include "code\__DEFINES\text.dm"
-#include "code\datums\brain_damage\mild.dm"
 #include "code\datums\quirks\positive_quirks\augmented.dm"
 #include "code\game\machinery\computer\orders\order_items\mining\order_mining.dm"
 #include "code\game\objects\structures\crates_lockers\closets\secure\engineering.dm"
