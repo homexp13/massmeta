@@ -90,6 +90,7 @@
 #include "features\hardsuits\code\hardsuit.dm"
 #include "features\hardsuits\code\helmet.dm"
 #include "features\hardsuits\code\space_suit_beacon.dm"
+#include "features\self_harm\includes.dm"
 
 //buts
 #include "code\modules\surgery\organs\internal\butts\butts.dm"
