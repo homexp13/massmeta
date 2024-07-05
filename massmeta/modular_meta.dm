@@ -14,8 +14,10 @@
 // BEGIN_INCLUDE
 #include "features\additional_circuit\includes.dm"
 #include "features\hardsuits\includes.dm"
+#include "features\kvass\includes.dm"
 #include "features\smites\includes.dm"
 #include "features\nanites\includes.dm"
+#include "features\soviet_crate\includes.dm"
 // END_INCLUDE
 
 
@@ -88,7 +90,6 @@
 //cheburek Car
 #include "code\modules\vehicles\cars\cheburek.dm"
 #include "code\modules\vehicles\vehicle_actions.dm"
-#include "code\game\objects\structures\crates_lockers\crates\large.dm"
 #include "code\modules\cargo\packs\imports.dm"
 
 //buts
@@ -102,10 +103,6 @@
 #include "code\modules\clothing\under\undersuit.dm"
 #include "code\modules\clothing\masks\moustache_ru.dm"
 
-//kvass
-#include "code\modules\cargo\exports\large_objects.dm"
-#include "code\modules\cargo\packs\materials.dm"
-#include "code\modules\reagents\chemistry\reagents\drinks\drink_reagents.dm"
-#include "code\modules\reagents\chemistry\reagents\drinks\glass_styles\sodas.dm"
-#include "code\modules\reagents\reagent_containers\cups\soda.dm"
-#include "code\modules\reagents\reagent_dispenser.dm"
+//Testicular_torsion wizard
+#include "code\modules\spells\spell_types\touch\testicular_torsion.dm"
+#include "code\modules\antags\wizard\equipment\spellbook_entries\offensive.dm"
