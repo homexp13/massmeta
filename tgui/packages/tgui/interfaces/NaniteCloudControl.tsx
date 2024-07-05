@@ -1,6 +1,6 @@
 import { BooleanLike } from 'common/react';
 
-import { useBackend } from '../../backend';
+import { useBackend } from '../backend';
 import {
   Box,
   Button,
@@ -10,8 +10,8 @@ import {
   NumberInput,
   Section,
   Table,
-} from '../../components';
-import { Window } from '../../layouts';
+} from '../components';
+import { Window } from '../layouts';
 
 type Data = {
   has_disk: BooleanLike;

@@ -23,7 +23,11 @@
 
 ### TGUI Files:
 
-- tgui\packages\tgui\interfaces\MassMeta\...
+- tgui\packages\tgui\interfaces\NaniteChamberControl.tsx
+- tgui\packages\tgui\interfaces\NaniteCloudControl.tsx
+- tgui\packages\tgui\interfaces\NaniteProgramHub.tsx
+- tgui\packages\tgui\interfaces\NaniteProgrammer.tsx
+- tgui\packages\tgui\interfaces\NaniteRemote.tsx
 
 
 ### Credits:

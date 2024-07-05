@@ -1,6 +1,6 @@
 import { BooleanLike } from 'common/react';
 
-import { useBackend } from '../../backend';
+import { useBackend } from '../backend';
 import {
   Button,
   Input,
@@ -9,8 +9,8 @@ import {
   NumberInput,
   Section,
   Table,
-} from '../../components';
-import { Window } from '../../layouts';
+} from '../components';
+import { Window } from '../layouts';
 
 export const NaniteRemote = (props) => {
   return (

@@ -1,6 +1,6 @@
 import { BooleanLike } from 'common/react';
 
-import { useBackend, useSharedState } from '../../backend';
+import { useBackend, useSharedState } from '../backend';
 import {
   Button,
   Flex,
@@ -8,8 +8,8 @@ import {
   NoticeBox,
   Section,
   Tabs,
-} from '../../components';
-import { Window } from '../../layouts';
+} from '../components';
+import { Window } from '../layouts';
 
 type Data = {
   detail_view: string;
